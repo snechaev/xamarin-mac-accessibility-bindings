@@ -11,8 +11,8 @@ These bindings enable developers to interact with the macOS Accessibility API in
 ## Adding the Bindings to Your Project
 
 Currently, there is no NuGet package available. To use the bindings, follow these steps:
-1. 
-2. Download the source code.
+ 
+1. Download the source code.
 2. Add the `AccessibilityBindings.csproj` project to your solution.
 3. Reference the `AccessibilityBindings.csproj` project in your consuming project by adding the following reference:
    ```xml
@@ -34,8 +34,7 @@ To interact with accessibility UI elements, follow these steps:
    ```
 
 2. **Obtain the Process ID (`pid`)**  
-   Identify the process ID of the application you want to interact with. For example, locate the running application
-3. using its bundle identifier:
+   Identify the process ID of the application you want to interact with. For example, locate the running application using its bundle identifier:
    ```csharp
    const string safariAppBundleId = "com.apple.Safari";
    AxUiElement safariPid = NSRunningApplication.GetRunningApplications(safariAppBundleId)
