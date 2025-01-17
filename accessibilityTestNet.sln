@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessibilityBindings", "AccessibilityBindings\AccessibilityBindings.csproj", "{C3131614-FC9B-4536-826D-424A4A9611E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafariSample", "SafariSample\SafariSample.csproj", "{C36AF519-2D88-4D48-A524-831DCC9148D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoshopSample", "PhotoshopSample\PhotoshopSample.csproj", "{53834303-FF4E-41A2-BB95-3F1476F7A72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafariWithUiSample", "SafariWithUiSample\SafariWithUiSample.csproj", "{4948EF87-9CE9-4DF2-A715-B1653A0A37DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3131614-FC9B-4536-826D-424A4A9611E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3131614-FC9B-4536-826D-424A4A9611E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3131614-FC9B-4536-826D-424A4A9611E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3131614-FC9B-4536-826D-424A4A9611E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36AF519-2D88-4D48-A524-831DCC9148D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36AF519-2D88-4D48-A524-831DCC9148D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36AF519-2D88-4D48-A524-831DCC9148D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36AF519-2D88-4D48-A524-831DCC9148D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53834303-FF4E-41A2-BB95-3F1476F7A72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53834303-FF4E-41A2-BB95-3F1476F7A72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53834303-FF4E-41A2-BB95-3F1476F7A72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53834303-FF4E-41A2-BB95-3F1476F7A72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4948EF87-9CE9-4DF2-A715-B1653A0A37DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4948EF87-9CE9-4DF2-A715-B1653A0A37DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4948EF87-9CE9-4DF2-A715-B1653A0A37DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4948EF87-9CE9-4DF2-A715-B1653A0A37DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
