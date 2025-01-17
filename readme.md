@@ -75,3 +75,6 @@ specified buttons within these dialogs by sending the `AXPress` action to the bu
 
 - If you are debugging with Rider, grant accessibility permissions to Rider, not to the application being debugged.
 - When running the application outside of Rider, ensure that the application itself has the required permissions.
+
+# Related work in the Xamarin.Mac repository
+There is an [issue](https://github.com/xamarin/xamarin-macios/issues/7536) about adding such a functionality to the standard library of the Xamarin.Mac (`net-macos`). 
